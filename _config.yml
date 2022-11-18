@@ -4,6 +4,7 @@ baseurl: "/researcher"
 
 markdown: kramdown
 ins_logo: "./ins-logo.png"
+#favicon_location: "./assets/favicon.ico/"
 
 tracking_id: #
 
