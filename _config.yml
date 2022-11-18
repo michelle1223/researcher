@@ -3,7 +3,7 @@ url: "https://michelle1223.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./ins-logo.png"
 
 tracking_id: #
 
