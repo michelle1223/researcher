@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="github_memoticon.png">
 
 Hi! I am a master's student of the Department of Statistics and Data Science at Yonsei University, Seoul.
 
