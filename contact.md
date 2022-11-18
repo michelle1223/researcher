@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [demin@yonsei.ac.kr](mailto:demin@yonsei.ac.kr)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+82-10-5116-3244](tel:+82-10-5116-3244)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 312, Department of Statistics and Data Science, Yonsei University
 >
-> London
+> Seoul
 >
-> United Kingdom
+> South Korea
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](#)
