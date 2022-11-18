@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://michelledemin.com"
-baseurl: "/base"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
