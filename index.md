@@ -12,14 +12,17 @@ Hi! I am a master's student of the Department of Statistics and Data Science at 
 
 I am broadly interested in the AI/ML applications in real-world business. Specifically, I am interested in popularity bias and diversity problems that occur when AI/ML technologies are implemented, such as the long-tail problem or cold start problem in e-commerce/recommender systems. Previously, I have done research in the area of imbalanced classification and economic index construction based on deep-learning approaches.
 
-## Papers
+## Submitted Papers
 
 1. D.E. Min, H.H. Lee, and J.H. Im: Filtered Synthetic sample Generation in Overlapping Areas - A Resampling Approach for Imbalanced Classification
  - Submitted to *PAKDD 2023*
 2. D.E. Min, N. Kang, Y.H. Cho, J.Y. Choi, and J.H. Im: Deep-learning Approach for Economic Index Construction in the ICT Industry - A Case Study for Korea
  - Submitted to *Expert Systems With Applications*
 
-## Typography
+## Working Papers
+
+1. D.E. Min: Outside the Comfort Zone - What Makes Users Burst their Filter Bubbles?
+ - Paper about the variety seeking behavior of users, analysis done with NetEase Cloud Music data.
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
