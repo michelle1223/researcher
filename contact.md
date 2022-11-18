@@ -9,7 +9,7 @@ is_contact: true
 
 ---
 
-## Mailing Address
+## Lab Address
 
 > 312, Department of Statistics and Data Science, Yonsei University
 >
