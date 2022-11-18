@@ -10,7 +10,7 @@ Hi! I am a master's student of the Department of Statistics and Data Science at 
 
 ## Research Interest
 
-I am broadly interested in the AI/ML applications in real-world business. Specifically, I am interested in popularity bias and diversity problems that occur when AI/ML technologies are implemented, such as the long-tail problem or cold start problem. Previously, I have done research in the area of imbalanced classification and economic index construction based on deep-learning approaches.
+I am broadly interested in the AI/ML applications in real-world business. Specifically, I am interested in popularity bias and diversity problems that occur when AI/ML technologies are implemented, such as the long-tail problem or cold start problem in e-commerce/recommender systems. Previously, I have done research in the area of imbalanced classification and economic index construction based on deep-learning approaches.
 
 ## Papers
 
