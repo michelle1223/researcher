@@ -19,13 +19,11 @@ Abstract: Imbalanced classification refers to the classification of data where o
 <img src="/assets/images/fig6_proposed.png" height="280" width="580">
 <em>Process of the Proposed Framework</em>
 
-<br/>
-<br/>
+\
 
 <img src="/assets/images/fig10_forecast_gdp_rate.png">
 <em>Forecasting Result of ICT-GDP Growth Rate (Quarterly) using the proposed index or BSI. The red solid (blue solid) line represents the in-sample predictions obtained from the model that includes our index (BSI) and ICT-GDP. The dotted lines represent the out-sample predictions of each model. The black solid (black dotted) line shows the in-sample (out-sample) target variable, ICT-GDP. </em>
 
-<br/>
-<br/>
+\
 
 Abstract: The ICT industry refers to the industry of “information and communications technology”. In South Korea, the ICT industry plays an important role in the economy, possessing 12.8% of the GDP of South Korea. Due to recent unforeseen incidents, it has become a challenge to accurately predict the trend of the ICT industry. This study aims to generate an economic index through a deep learning approach that integrates Natural Language Processing (NLP) models and image clustering techniques. We introduce a 4-step protocol to generate an economic index to evaluate economic performance. First, systematic sampling was applied to produce a balanced sample of ICT industry news for each period. Second, feature engineering techniques developed by KoBERT were applied to generate two types of scores for each sentence - relevance scores and sentiment scores. Third, textual data were transformed into joint plot images for visualization and then grouped into different clusters based on news categories. In the end, Multi-criteria Decision Analysis (MCDA) is applied to generate the final economic index.
