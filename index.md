@@ -17,7 +17,7 @@ I am broadly interested in the **AI/ML applications in real-world business**. Sp
 ## Working Papers
 
 1. D.E. Min, H.H. Lee, and J.H. Im: Filtered Synthetic sample Generation in Overlapping Areas - A Resampling Approach for Imbalanced Classification
- - Finalizing manuscript. Presented at 2022 [KSS](http://www.kss.or.kr/bbs/board.php?bo_table=award) Winter Conference (4th place prize), 2022 Brain Korea Academic Conference
+ - Finalizing manuscript. Presented at 2022 KSS Winter Conference ([4th place prize](http://www.kss.or.kr/bbs/board.php?bo_table=award)), 2022 Brain Korea Academic Conference
 2. D.E. Min, N. Kang, Y.H. Cho, J.Y. Choi, and J.H. Im: Deep-learning Approach for Economic Index Construction in the ICT Industry - A Case Study for Korea
  - Finalizing manuscript. 
 
