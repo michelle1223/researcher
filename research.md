@@ -19,7 +19,7 @@ PDF file of the poster presented in the 2022 KSS Winter Conference can be seen [
 
 **2. D.E. Min, N. Kang, Y.H. Cho, J.Y. Choi, and J.H. Im: Deep-learning Approach for Economic Index Construction in the ICT Industry - A Case Study for Korea**
 
-<img src="assets/images/fig6_proposed.png" height=70% width=70%>
+<img src="assets/images/fig6_proposed.png" height="250" width="480">
 <em>Process of the Proposed Framework</em>
 
 <br/><br/>
