@@ -16,7 +16,7 @@ Abstract: Imbalanced classification refers to the classification of data where o
 
 **2. D.E. Min, N. Kang, Y.H. Cho, J.Y. Choi, and J.H. Im: Deep-learning Approach for Economic Index Construction in the ICT Industry - A Case Study for Korea**
 
-<img src="fig6_proposed.png" height="500" width="200">
+<img src="fig6_proposed.png" height="200" width="500">
 <em>Process of the Proposed Framework</em>
 <img src="fig10_forecast_gdp_rate.png">
 <em>Forecasting Result of ICT-GDP Growth Rate (Quarterly) using the proposed index or BSI. The red solid (blue solid) line represents the in-sample predictions obtained from the model that includes our index (BSI) and ICT-GDP. The dotted lines represent the out-sample predictions of each model. The black solid (black dotted) line shows the in-sample (out-sample) target variable, ICT-GDP. </em>
