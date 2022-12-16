@@ -19,12 +19,12 @@ PDF file of the poster presented in the 2022 KSS Winter Conference can be seen [
 
 **2. D.E. Min, N. Kang, Y.H. Cho, J.Y. Choi, and J.H. Im: Deep-learning Approach for Economic Index Construction in the ICT Industry - A Case Study for Korea**
 
-<img src="/assets/images/fig6_proposed.png" height="280" width="550">
+<img src="assets/images/fig6_proposed.png" height="280" width="550">
 <em>Process of the Proposed Framework</em>
 
 <br/><br/>
 
-<img src="/assets/images/fig10_forecast_gdp_rate.png">
+<img src="assets/images/fig10_forecast_gdp_rate.png">
 <em>Forecasting Result of ICT-GDP Growth Rate (Quarterly) using the proposed index or BSI. The red solid (blue solid) line represents the in-sample predictions obtained from the model that includes our index (BSI) and ICT-GDP. The dotted lines represent the out-sample predictions of each model. The black solid (black dotted) line shows the in-sample (out-sample) target variable, ICT-GDP. </em>
 
 <br/><br/>
