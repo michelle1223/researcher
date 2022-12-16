@@ -6,7 +6,7 @@ layout: default
 
 **1. D.E. Min, H.H. Lee, and J.H. Im: Filtered Synthetic sample Generation in Overlapping Areas - A Resampling Approach for Imbalanced Classification**
 
-<img src="ProposedMethod1.png">
+<img src="/assets/images/ProposedMethod1.png">
 <em>Process of the Proposed Method</em>
 
 Abstract: Imbalanced classification refers to the classification of data where one class consists of a smaller number of samples than the other class. In this paper, we introduce a new resampling method for binary imbalanced classification. Our method constructs a balanced set by generating synthetic samples within the k-nearest neighbors of the overlapping minority samples, and resampling the generated synthetic minority samples with sampling weights constructed with a calibration constraint given based on the original minority sample mean. Through this process, we generate additional samples in the tricky borderline area, while also removing noisy samples far from the original minority sample mean. Through several experiments, we show that our method outperforms other oversampling methods.
@@ -16,13 +16,13 @@ Abstract: Imbalanced classification refers to the classification of data where o
 
 **2. D.E. Min, N. Kang, Y.H. Cho, J.Y. Choi, and J.H. Im: Deep-learning Approach for Economic Index Construction in the ICT Industry - A Case Study for Korea**
 
-<img src="fig6_proposed.png" height="280" width="580">
+<img src="/assets/images/fig6_proposed.png" height="280" width="580">
 <em>Process of the Proposed Framework</em>
 
 <br/>
 <br/>
 
-<img src="fig10_forecast_gdp_rate.png">
+<img src="/assets/images/fig10_forecast_gdp_rate.png">
 <em>Forecasting Result of ICT-GDP Growth Rate (Quarterly) using the proposed index or BSI. The red solid (blue solid) line represents the in-sample predictions obtained from the model that includes our index (BSI) and ICT-GDP. The dotted lines represent the out-sample predictions of each model. The black solid (black dotted) line shows the in-sample (out-sample) target variable, ICT-GDP. </em>
 
 <br/>
