@@ -11,7 +11,7 @@ layout: default
 
 Abstract: Imbalanced classification refers to the classification of data where one class consists of a smaller number of samples than the other class. In this paper, we introduce a new resampling method for binary imbalanced classification. Our method constructs a balanced set by generating synthetic samples within the k-nearest neighbors of the overlapping minority samples, and resampling the generated synthetic minority samples with sampling weights constructed with a calibration constraint given based on the original minority sample mean. Through this process, we generate additional samples in the tricky borderline area, while also removing noisy samples far from the original minority sample mean. Through several experiments, we show that our method outperforms other oversampling methods.
 
-PDF file of the current manuscript can be seen [here](/assets/papers/Conference_Paper.pdf)
+PDF file of the current manuscript can be seen [here](/assets/papers/Conference_Paper.pdf)  
 PDF file of the poster presented in the 2022 KSS Winter Conference can be seen [here](/assets/papers/KSS_Poster_MinDE.pdf)
 
 <br/>
