@@ -6,7 +6,7 @@ layout: default
 
 **1. D.E. Min, H.H. Lee, and J.H. Im: Filtered Synthetic sample Generation in Overlapping Areas - A Resampling Approach for Imbalanced Classification**
 
-<img src="/assets/images/ProposedMethod1.png">
+<img src="assets/images/ProposedMethod1.png">
 <em>Process of the Proposed Method</em>
 
 Abstract: Imbalanced classification refers to the classification of data where one class consists of a smaller number of samples than the other class. In this paper, we introduce a new resampling method for binary imbalanced classification. Our method constructs a balanced set by generating synthetic samples within the k-nearest neighbors of the overlapping minority samples, and resampling the generated synthetic minority samples with sampling weights constructed with a calibration constraint given based on the original minority sample mean. Through this process, we generate additional samples in the tricky borderline area, while also removing noisy samples far from the original minority sample mean. Through several experiments, we show that our method outperforms other oversampling methods.
