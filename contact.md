@@ -11,9 +11,9 @@ is_contact: true
 
 ## Lab Address
 
-> 312, Department of Statistics and Data Science, Yonsei University
+> Lab 312, Department of Statistics and Data Science
 >
-> Seoul
+> Yonsei University, Seoul
 >
 > South Korea
 
